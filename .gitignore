@@ -2,3 +2,16 @@ node_modules
 .env
 .DS_Store
 tmp
+.idea/jsLibraryMappings.xml
+
+.idea/libraries/node_salesforce_bulk_with_request_node_modules.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/node-salesforce-bulk-with-request.iml
+
+.idea/watcherTasks.xml
+
+.idea/workspace.xml
